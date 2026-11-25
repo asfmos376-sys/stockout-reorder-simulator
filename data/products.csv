@@ -1,0 +1,4 @@
+sku,product,starting_stock,lead_time,order_quantity
+WATER-001,Bottled water,100,7,500
+RICE-002,Rice bags,95,5,300
+OIL-003,Olive oil bottles,48,6,300
